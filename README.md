@@ -10,6 +10,6 @@
 * Business Insights
 * Recommendations
 
-**  References**
+**References**
 
 scaler.com
